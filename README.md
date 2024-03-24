@@ -1,2 +1,2 @@
-# nsme
-Official repo for the Natural Medicine Search Engine (NSME).
+# LapRec
+Official repo for the Laptop Recommendation Site (LapRec).
